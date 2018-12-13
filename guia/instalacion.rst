@@ -314,7 +314,7 @@ Instalar y crear dominio en Weblogic.
 - Seguidamente iniciamos el dominio con el script startWebLogic.sh
 
 
-- Luego que termine de subir correctamente, ingresamos vía web a la consola de weblogic de la siguiente manera IP:PUERTO/console
+- Al terminar de subir correctamente, ingresamos vía web a la consola de weblogic de la siguiente manera IP:PUERTO/console
 
 
 .. image:: ../imagenes/instalacion/021.png
