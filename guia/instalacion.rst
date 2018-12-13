@@ -326,15 +326,139 @@ Instalar y crear dominio en Weblogic.
 .. image:: ../imagenes/instalacion/022.png
 
 
-- Entre las configuraciones mas destacas estan:
+- En Estructura de Dominio, darle click al nombre de dominio, luego a la pestaña Aplicaciones 	 Web y se tilda una de las últimas opciones que se llama "Ruta de acceso Real Activada Archivada", que es para que el dominio trabaje con rutas absolutas:
 
 
- - En Estructura de Dominio, darle click al nombre de dominio, luego a la pestaña Aplicaciones 	 Web y se tilda una de las últimas opciones que se llama "Ruta de acceso Real Activada Archivada", que es para que el dominio trabaje con rutas absolutas.
+.. image:: ../imagenes/dominio_despliegue/002.png
 
 
- - En Estructura de Dominio, seleccionamos Servicios y luego Orígenes de Datos, y al darle nuevo podremos crear un datasource para conexión a la base de datos.
+.. image:: ../imagenes/dominio_despliegue/003.png
 
 
- - Sí queremos aumentar el pool de conexiones luego de creado el datasource, lo seleccionamos y le damos a la pestaña Pool de Conexiones, y a donde dice Capacidad Máxima, colocamos el valor de nuestro gusto.
+- Luego de hacer esto guardamos los cambios:
 
 
+.. image:: ../imagenes/dominio_despliegue/004.png
+
+
+- La consola nos enviará un mensaje de que se han activado los cambios, sin embargo se debe reiniciar, por lo que que debes ir al servidor y ejecutar los comandos stopWeblogic.sh y startWeblogic.sh:
+
+
+.. image:: ../imagenes/dominio_despliegue/005.png
+
+
+ - Posteriormente en Estructura de Dominio seleccionamos Servicios ---> Orígenes de Datos, y al darle nuevo para crear un datasource para conexión a la base de datos:
+
+
+.. image:: ../imagenes/dominio_despliegue/006.png
+
+
+- Seleccionamos Origen de datos Genérico:
+
+
+.. image:: ../imagenes/dominio_despliegue/007.png
+
+
+- Le asignamos el nombre al datasource:
+
+
+.. image:: ../imagenes/dominio_despliegue/008.png
+
+
+- Seleccionamos el controlador de base de datos en nuestro caso:
+
+
+.. image:: ../imagenes/dominio_despliegue/009.png
+
+
+- Las opciones de transacción las dejamos por defecto:
+
+
+.. image:: ../imagenes/dominio_despliegue/010.png
+
+
+- Ingresamos el nombre de base de datos, la ip del servidor, el puerto y el usuario de base de datos con su contraseña:
+
+
+.. image:: ../imagenes/dominio_despliegue/011.png
+
+
+- Luego le damos a Probar Configuración, para certificar que conecte a la base de datos:
+
+
+.. image:: ../imagenes/dominio_despliegue/012.png
+
+
+- Le damos siguiente y tildamos el dominio, y luego le damos a finalizar:
+
+
+.. image:: ../imagenes/dominio_despliegue/013.png
+
+
+- Ya el datasource se debe haber creado de manera exitosa:
+
+
+.. image:: ../imagenes/dominio_despliegue/014.png
+
+
+- Sí queremos aumentar el pool de conexiones luego de creado el datasource, lo seleccionamos y le damos a la pestaña Pool de Conexiones, y a donde dice Capacidad Máxima, colocamos el valor de nuestro gusto:
+
+
+.. image:: ../imagenes/dominio_despliegue/015.png
+
+
+.. image:: ../imagenes/dominio_despliegue/016.png
+
+
+- Luego la consola nos enviará un mensaje de que se han activado los cambios y que no es necesario reiniciar:
+
+
+.. image:: ../imagenes/dominio_despliegue/017.png
+
+
+- Finalmente, luego de configurado el dominio podemos proceder a desplegar nuestra aplicación. Para ello, en Estructura de Dominio le damos a la opción Despliegues y luego a la opción instalar:
+
+
+.. image:: ../imagenes/dominio_despliegue/018.png
+
+
+- Le indicamos la ruta a donde esta ubicado el ear y seleccionamos siguiente:
+
+
+.. image:: ../imagenes/dominio_despliegue/019.png
+
+
+- Luego le damos a la opción Instalar Despliegue como Aplicación:
+
+
+.. image:: ../imagenes/dominio_despliegue/020.png
+
+
+- Le damos siguiente y le asignamos el nombre del ear:
+
+
+.. image:: ../imagenes/dominio_despliegue/021.png
+
+
+- Le damos siguiente para pasar al despliegue:
+
+
+.. image:: ../imagenes/dominio_despliegue/022.png
+
+
+- Ya el despliegue se a realizado y le damos a la opción Terminar:
+
+
+.. image:: ../imagenes/dominio_despliegue/023.png
+
+
+- Luego nos mostrará la Configuración General, y de estar todo bien le damos a la opción Guardar:
+
+
+.. image:: ../imagenes/dominio_despliegue/024.png
+
+
+- Finalmente la consola nos muestra un mensaje de que se han activado todos los cambios y que no es necesario reiniciar, por lo que ya se puede proceder a consultar la aplicación:
+
+
+.. image:: ../imagenes/dominio_despliegue/025.png
