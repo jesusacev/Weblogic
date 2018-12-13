@@ -260,7 +260,7 @@ Instalar y crear dominio en Weblogic.
 .. image:: ../imagenes/instalacion/012.png
 
 
-- Luego seleccionamos crear dominio mediante platilla de productos, y para nuestro caso con tildar Basic Weblogic Server Domain es suficiente:
+- A continuación seleccionamos crear dominio mediante platilla de productos, y para nuestro caso con tildar Basic Weblogic Server Domain es suficiente:
 
 
 .. image:: ../imagenes/instalacion/013.png
