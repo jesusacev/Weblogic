@@ -163,7 +163,7 @@ Instalar y crear dominio en Weblogic.
 	Los logs están aquí: /tmp/OraInstall2018-12-10_10-20-14AM.
 
 
-- Ahora nos indica que le hace falta una libreria de java por lo que procedemos a instalarsela:
+- Ahora nos indica que le hace falta una libreria de java por lo que procedemos a instalarsela::
 
 
 	$ yum install libXtst.x86_64
