@@ -308,7 +308,7 @@ Instalar y crear dominio en Weblogic.
 .. image:: ../imagenes/instalacion/020.png
 
 
-- Luego nso vamos a la ruta de instalación del dominio al directorio bin, y primero subimos el tamaño de la máquina virtual a nuestro gusto en el archivo setDomainEnv.sh.
+- Luego nos vamos a la ruta de instalación del dominio al directorio bin, y primero subimos el tamaño de la máquina virtual a nuestro gusto en el archivo setDomainEnv.sh.
 
 
 - Seguidamente iniciamos el dominio con el script startWebLogic.sh
