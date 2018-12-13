@@ -241,7 +241,7 @@ Instalar y crear dominio en Weblogic.
 .. image:: ../imagenes/instalacion/010.png
 
 
-- Luego nos indica que la instalación a terminado y presionamos el botón terminar:
+- Seguidamente nos indica que la instalación a terminado y presionamos el botón terminar:
 
 
 .. image:: ../imagenes/instalacion/011.png
