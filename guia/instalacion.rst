@@ -401,7 +401,7 @@ Instalar y crear dominio en Weblogic.
 .. image:: ../imagenes/dominio_despliegue/014.png
 
 
-- Sí queremos aumentar el pool de conexiones luego de creado el datasource, lo seleccionamos y le damos a la pestaña Pool de Conexiones, y a donde dice Capacidad Máxima, colocamos el valor de nuestro gusto:
+- Sí queremos aumentar el pool de conexiones posterior a la creación del datasource, lo seleccionamos y le damos a la pestaña Pool de Conexiones, y a donde dice Capacidad Máxima, colocamos el valor de nuestro gusto:
 
 
 .. image:: ../imagenes/dominio_despliegue/015.png
@@ -410,7 +410,7 @@ Instalar y crear dominio en Weblogic.
 .. image:: ../imagenes/dominio_despliegue/016.png
 
 
-- Luego la consola nos enviará un mensaje de que se han activado los cambios y que no es necesario reiniciar:
+- A continuación la consola nos enviará un mensaje de que se han activado los cambios y que no es necesario reiniciar:
 
 
 .. image:: ../imagenes/dominio_despliegue/017.png
@@ -446,13 +446,13 @@ Instalar y crear dominio en Weblogic.
 .. image:: ../imagenes/dominio_despliegue/022.png
 
 
-- Ya el despliegue se a realizado y le damos a la opción Terminar:
+- Ya el despliegue se a realizado y presionamos a la opción Terminar:
 
 
 .. image:: ../imagenes/dominio_despliegue/023.png
 
 
-- Luego nos mostrará la Configuración General, y de estar todo bien le damos a la opción Guardar:
+- Aquí nos mostrará la Configuración General, y de estar todo bien le damos a la opción Guardar:
 
 
 .. image:: ../imagenes/dominio_despliegue/024.png
