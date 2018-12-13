@@ -1,7 +1,7 @@
 Instalar y crear dominio en Weblogic.
 ======
 
-- Lo primero que debemos tener son los instaladores de java y weblogic a utilizar, descargados de la página oficial de Oracle, para luego proceder a descomprimirlas. Se debe tener en cuenta las versiones de java permitidas para el servidor de aplicación
+- Lo primero que debemos tener son los instaladores de java y weblogic a utilizar, descargados de la página oficial de Oracle, para luego proceder a descomprimirlos. Se debe tener en cuenta las versiones de java permitidas para el servidor de aplicación.
 
 
 - Luego debemos definir la variable de entorno JAVA_HOME con la ruta absoluta para trabajar de una manera mas comoda. Esto se debe hacer en el bash_profile del usuario con que vamos a trabajar,a donde exportamos la variable y la declaramos en el PATH, para cuando coloquemos la palabra java nos invoque el binario:
