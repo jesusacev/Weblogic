@@ -347,7 +347,7 @@ Instalar y crear dominio en Weblogic.
 .. image:: ../imagenes/dominio_despliegue/005.png
 
 
-- Posteriormente en Estructura de Dominio seleccionamos Servicios ---> Orígenes de Datos, y al darle nuevo para crear un datasource para conexión a la base de datos:
+- Posteriormente en Estructura de Dominio seleccionamos Servicios ---> Orígenes de Datos, y le damos a nuevo para crear un datasource para conexión a la base de datos:
 
 
 .. image:: ../imagenes/dominio_despliegue/006.png
@@ -365,7 +365,7 @@ Instalar y crear dominio en Weblogic.
 .. image:: ../imagenes/dominio_despliegue/008.png
 
 
-- Seleccionamos el controlador de base de datos en nuestro caso:
+- Seleccionamos el controlador de base de datos que en nuestro caso es este:
 
 
 .. image:: ../imagenes/dominio_despliegue/009.png
@@ -416,7 +416,7 @@ Instalar y crear dominio en Weblogic.
 .. image:: ../imagenes/dominio_despliegue/017.png
 
 
-- Finalmente, luego de configurado el dominio podemos proceder a desplegar nuestra aplicación. Para ello, en Estructura de Dominio le damos a la opción Despliegues y luego a la opción instalar:
+- Finalmente, luego de configurado el dominio podemos proceder a desplegar nuestra aplicación. Para ello, en Estructura de Dominio le damos a la opción Despliegues y seguidamente a la opción instalar:
 
 
 .. image:: ../imagenes/dominio_despliegue/018.png
@@ -428,19 +428,19 @@ Instalar y crear dominio en Weblogic.
 .. image:: ../imagenes/dominio_despliegue/019.png
 
 
-- Luego le damos a la opción Instalar Despliegue como Aplicación:
+- A continuación le damos a la opción Instalar Despliegue como Aplicación:
 
 
 .. image:: ../imagenes/dominio_despliegue/020.png
 
 
-- Le damos siguiente y le asignamos el nombre del ear:
+- Seleccionamos siguiente y le asignamos el nombre del ear:
 
 
 .. image:: ../imagenes/dominio_despliegue/021.png
 
 
-- Le damos siguiente para pasar al despliegue:
+- Siguiente para pasar al despliegue:
 
 
 .. image:: ../imagenes/dominio_despliegue/022.png
