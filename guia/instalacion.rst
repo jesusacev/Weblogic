@@ -347,7 +347,7 @@ Instalar y crear dominio en Weblogic.
 .. image:: ../imagenes/dominio_despliegue/005.png
 
 
- - Posteriormente en Estructura de Dominio seleccionamos Servicios ---> Orígenes de Datos, y al darle nuevo para crear un datasource para conexión a la base de datos:
+- Posteriormente en Estructura de Dominio seleccionamos Servicios ---> Orígenes de Datos, y al darle nuevo para crear un datasource para conexión a la base de datos:
 
 
 .. image:: ../imagenes/dominio_despliegue/006.png
