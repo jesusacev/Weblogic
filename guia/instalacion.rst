@@ -205,7 +205,7 @@ Instalar y crear dominio en Weblogic.
 .. image:: ../imagenes/instalacion/004.png
 
 
-- Luego le damos a omitir actualziaciones automáticas:
+- Luego le damos a omitir actualizaciones automáticas:
 
 
 .. image:: ../imagenes/instalacion/005.png
