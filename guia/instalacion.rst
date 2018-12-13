@@ -320,7 +320,7 @@ Instalar y crear dominio en Weblogic.
 .. image:: ../imagenes/instalacion/021.png
 
 
-- Y al ingresar podremos observar todas las opciones para configurar el dominio:
+- Luego de loguearnos podremos observar todas las opciones para configurar el dominio:
 
 
 .. image:: ../imagenes/instalacion/022.png
