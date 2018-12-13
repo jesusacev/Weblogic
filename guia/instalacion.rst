@@ -54,7 +54,7 @@ Instalar y crear dominio en Weblogic.
 - Luego tenemos que definir variable JAVA_HOME en el .bash_history del usuario de servicio, tal cual como se explicó anteriormente.
 
 
-- LUego de esto volvemos a ejecutar el jar de instalación::
+- Luego de esto volvemos a ejecutar el jar de instalación::
 
 
 	$ java -jar fmw_12.2.1.3.0_wls.jar 
