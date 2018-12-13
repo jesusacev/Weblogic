@@ -72,7 +72,7 @@ Instalar y crear dominio en Weblogic.
 	¿Desea continuar? (sí [s] / no [n]) [n]	
 
 
-- Esta vez nos dice que nos e a definido la variable de entorno display, por lo que debemos instalar los paquetes necesarios para poder trabajar con el entorno de x.
+- Esta vez nos dice que no se a definido la variable de entorno display, por lo que debemos instalar los paquetes necesarios para poder trabajar con el entorno de x.
 
 
 - Instalamos los 2 siguientes paquetes::
