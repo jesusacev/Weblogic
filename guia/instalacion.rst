@@ -23,7 +23,7 @@ Instalar y crear dominio en Weblogic.
 
 - Luego ejecutamos con java el jar de instalación del weblogic::
 
-
+        # java -jar fmw_12.2.1.3.0_wls.jar
 	El archivo log del iniciador es /tmp/OraInstall2018-12-10_10-03-10AM/launcher2018-12-10_10-03-10AM.log.
 	Extrayendo instalador... . . . . . . . . . . . . . . . . Listo
 	El usuario actual es raíz o tiene un privilegio de superusuario.
