@@ -1,0 +1,3 @@
+rm -rf /u02/app/oracle/domain/D7044/servers/AdminServer/cache
+
+rm -rf /u02/app/oracle/domain/D7044/servers/AdminServer/tmp
