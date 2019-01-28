@@ -51,7 +51,7 @@ Instalar y crear dominio en Weblogic.
 	# sudo su - weblogic
 
 
-- Luego tenemos que definir variable JAVA_HOME en el .bash_history del usuario de servicio, tal cual como se explicó anteriormente.
+- Luego tenemos que definir variable JAVA_HOME en el .bash_profile del usuario de servicio, tal cual como se explicó anteriormente.
 
 
 - Luego de esto volvemos a ejecutar el jar de instalación::
