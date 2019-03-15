@@ -146,70 +146,69 @@ Creación de un Cluster Weblogic
 - Procedemos iniciar el Admin Server:
 
 
-.. image:: ../imagenes/cluster/capture20.PNG
+.. image:: ../imagenes/cluster/capture20.png
 
 
-.. image:: ../imagenes/cluster/capture21.PNG
+.. image:: ../imagenes/cluster/capture21.png
 
 
 - Ingresamos en la consola administrativa:
 
 
-.. image:: ../imagenes/cluster/capture22.PNG
+.. image:: ../imagenes/cluster/capture22.png
 
 
 - Seleccionamos el dominio, y luego Seguridad -> General:
 
 
-.. image:: ../imagenes/cluster/capture23.PNG
+.. image:: ../imagenes/cluster/capture23.png
 
 
 - Las Credenciales del Node Manager al momento de la creación del dominio se establecen de manera aleatoria por seguridad. Por ello se debe ingresar nuevamente el usuario y la contraseña del Node Manager y guardamos los cambios:
 
 
-.. image:: ../imagenes/cluster/capture24.PNG
+.. image:: ../imagenes/cluster/capture24.png
 
 
-.. image:: ../imagenes/cluster/capture25.PNG
+.. image:: ../imagenes/cluster/capture25.png
 
 
 - Luego ingresamos a las máquinas creadas que en este caso es solo una:
 
 
-.. image:: ../imagenes/cluster/capture26.PNG
+.. image:: ../imagenes/cluster/capture26.png
 
 
 - Y en Configuración -> Gestor de Nodos, cambiamos el tipo a "Normal" y guardamos los cambios:
 
 
-.. image:: ../imagenes/cluster/capture27.PNG
+.. image:: ../imagenes/cluster/capture27.png
 
 
 - Subimos el Node Manager:
 
 
-.. image:: ../imagenes/cluster/capture29.PNG
+.. image:: ../imagenes/cluster/capture29.png
 
 
-.. image:: ../imagenes/cluster/capture30.PNG
-
+.. image:: ../imagenes/cluster/capture30.png
 
 - Y volvemos a ingresar a la máquina:
 
 
-.. image:: ../imagenes/cluster/capture32.PNG
+.. image:: ../imagenes/cluster/capture32.png
 
 
 - Y en Supervisión -> Estado del Gestor de Nodos, podremos observar que ya la maquina se encuentra Accesible, por lo que ya se podrá administrar los manejados asociados a esta máquina a través del Admin Server:
 
 
-.. image:: ../imagenes/cluster/capture33.PNG
+.. image:: ../imagenes/cluster/capture33.png
 
 
 - En Servidores -> Control, podremos iniciar o detener los manejados:
 
 
-.. image:: ../imagenes/cluster/capture34.PNG
+.. image:: ../imagenes/cluster/capture34.png
 
 
 
