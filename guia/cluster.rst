@@ -9,7 +9,7 @@ Creación de un Cluster Weblogic
 - Primero ejecutamos el script config.sh para proceder a crear un nuevo dominio:
 
 
-.. image:: ../imagenes/componente/Captura1.PNG
+.. image:: ../../OHS-Oracle-HTTP-Server-/imagenes/componente/Captura1.PNG
 
 
 - Seleccionamos crear nuevo dominio y asignamos la ruta de instalación:
