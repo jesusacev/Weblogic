@@ -130,7 +130,7 @@ Creación de un Cluster Weblogic
 
 1. Empaquetar el dominio en el servidor a donde fue creado:
 
-.. image:: ../imagenes/cluster/14-03-2019 12-44-55.png
+.. image:: ../imagenes/cluster/14-03-2019 12-44-55
 
 2. Desempaquetar el dominio en los otros servidores:
 
