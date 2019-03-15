@@ -6,3 +6,4 @@
 * [Creación de Datasource en Weblogic](guia/datasource.rst)
 * [Despliegue en Weblogic](guia/despliegue.rst)
 * [Como borrar cache y tmp en un dominio de weblogic](guia/borrarcacheytmp.rst)
+* [Cluster Weblogic](guia/cluster.rst)
