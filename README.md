@@ -7,3 +7,4 @@
 * [Despliegue en Weblogic](guia/despliegue.rst)
 * [Como borrar cache y tmp en un dominio de weblogic](guia/borrarcacheytmp.rst)
 * [Cluster Weblogic](guia/cluster.rst)
+* [Configuración de Seguridad del Admin Para Que No Pida Contraseña al Ejecutarlo](guia/seguridad.rst)

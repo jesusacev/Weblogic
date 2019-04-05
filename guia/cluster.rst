@@ -2,7 +2,7 @@ Creación de un Cluster Weblogic
 ========
 
 - Requisitos:
-1. Tener instalado los binarios de infraestructure o Weblogic Server.
+1. Tener instalado el binario de infraestructure o Weblogic Server.
 2. Verificar que el entorno de las ventanas X esté operativo.
 
 
@@ -199,7 +199,7 @@ Creación de un Cluster Weblogic
 .. image:: ../imagenes/cluster/capture32.png
 
 
-- Y en Supervisión -> Estado del Gestor de Nodos, podremos observar que ya la maquina se encuentra Accesible, por lo que ya se podrá administrar los manejados asociados a esta máquina a través del Admin Server:
+- Y en Supervisión -> Estado del Gestor de Nodos, podremos observar que ya la maquina se encuentra Accesible, por lo que ya se podrá administrar los manejados asociados a esta máquina, a través del Admin Server:
 
 
 .. image:: ../imagenes/cluster/capture33.png
